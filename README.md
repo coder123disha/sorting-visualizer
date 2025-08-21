@@ -32,14 +32,7 @@ Original Array:
 ## (2)
 # (1)
 
-````
-sorted Array:
-Sorted Array:
-# (1)
-## (2)
-### (3)
 
----
 
 ## ⚡ Getting Started
 
